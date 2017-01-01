@@ -1,2 +1,4 @@
-*.sww
+**.sww
 */None0000000.png
+.ipynb_checkpoints
+
