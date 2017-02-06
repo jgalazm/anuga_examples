@@ -1,3 +1,8 @@
 **.sww
 **/None0000000.png
 .ipynb_checkpoints
+**/*.dem
+**/*.asc
+**/*.msh
+**/*.pts
+**/*.zip
