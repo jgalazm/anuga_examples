@@ -55,7 +55,7 @@ if myid==0:
     domain.set_name('cairns_fixed_wave') # Name of sww file
     domain.set_datadir('.')                       # Store sww output here
     domain.set_minimum_storable_height(0.01)      # Store only depth > 1cm
-    domain.set_flow_algorithm('DE2')
+    domain.set_flow_algorithm('DE1')
 
     #------------------------------------------------------------------------------
     # Setup initial conditions
